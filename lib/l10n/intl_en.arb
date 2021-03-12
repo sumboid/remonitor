@@ -1,0 +1,48 @@
+{
+  "@@last_modified": "2019-12-23T14:07:30.512366",
+  "title": "Remonitor",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hosts": "Hosts",
+  "@hosts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNew": "Add New",
+  "@addNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "host": "Host",
+  "@host": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hostRequired": "Host is required",
+  "@hostRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "port": "Port",
+  "@port": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "portRequired": "Port is required",
+  "@portRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "portRestriction": "Port must be 1-65535",
+  "@hostRequired": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

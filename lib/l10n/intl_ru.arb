@@ -1,0 +1,48 @@
+{
+  "@@last_modified": "2019-12-23T14:07:30.512366",
+  "title": "Remonitor",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hosts": "Хосты",
+  "@hosts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNew": "Добавить",
+  "@addNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Имя",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "host": "Хост",
+  "@host": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hostRequired": "Хост необходим",
+  "@hostRequired": {
+   "type": "text",
+   "placeholders": {}
+  },
+  "port": "Порт",
+  "@port": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "portRequired": "Порт необходим",
+  "@portRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "portRestriction": "Порт должен быть в интервале 1-65535",
+  "@hostRequired": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
